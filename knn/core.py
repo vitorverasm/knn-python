@@ -1,4 +1,4 @@
-class KNearestNeighboursCore:
+class KNearestNeighborsCore:
     def __init__(self):
         pass
 

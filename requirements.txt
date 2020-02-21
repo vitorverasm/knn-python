@@ -1,3 +1,5 @@
+scikit-learn
 torch
 torchvision
 matplotlib
+pykeops
