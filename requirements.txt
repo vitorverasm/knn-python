@@ -1,5 +1,4 @@
-scikit-learn
-torch
-torchvision
+sklearn
 matplotlib
-pykeops
+numpy
+scipy
